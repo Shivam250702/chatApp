@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# CHat App
 
-Talk-a-tive is a Full Stack Chatting App.
+CHat is a Full Stack Chatting App.It
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -13,21 +13,21 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+ https://github.com/Shivam250702/chatApp.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd chatapp
 ```
 
 Install dependencies
@@ -58,24 +58,27 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+
+![image](https://github.com/Shivam250702/chatApp/assets/103785990/7777edc8-c0eb-4d66-8a56-50a32ddbb928)
+
+![image](https://github.com/Shivam250702/chatApp/assets/103785990/fe593d80-2213-4127-a335-f904f2f6f6ca)
+
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+
+![image](https://github.com/Shivam250702/chatApp/assets/103785990/2a270ef0-510a-485d-9853-f628b178109e)
+
 ### Search Users
+
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
-### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
-## Made By
+![image](https://github.com/Shivam250702/chatApp/assets/103785990/b342237d-f245-4ffc-83e0-ef3ea7db9258)
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+
+### View Other user Profile
+![image](https://github.com/Shivam250702/chatApp/assets/103785990/cc62c079-8670-4dd3-8a8c-4207395786d7)
+
+
 
   
